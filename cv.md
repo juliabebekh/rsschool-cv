@@ -8,7 +8,7 @@
 My main goal is to become a good Front-end developer. Previously, my professional activity was not related to the IT sphere: I graduated from a technical university with a degree of engineer-economist and have been working as an industrial procurement specialist for more then 2 years. My strengths are responsibility, attention to details, ability to learn and organize myself. 
 
 **Skills:**
-* Basic knowledge of HTML, CSS, JS. Advanced Adobe Photoshop user.
+* Basic knowledge of HTML, CSS, JS, Figma. Advanced Adobe Photoshop user.
 
 **Code examples:**
 At the moment I have no code examples, but I will definitely include them later.
