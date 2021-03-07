@@ -21,5 +21,5 @@ At the moment I have no code examples, but I will definitely include them later.
 * Belarusian National Technical University (2014-2019), speciality Engineer-economist in construction.
 
 **English:** 
-* Intermediate (between B1-B2)
+* Intermediate (between B1-B2).
  
